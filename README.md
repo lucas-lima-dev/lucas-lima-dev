@@ -40,7 +40,7 @@ Sou apaixonado por tecnologia, natureza e adoro passar o tempo com minha esposa 
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" /> Postgresql
+  <img width="12" /> PostgreSQL
         </td>
       </tr>
       <tr>
