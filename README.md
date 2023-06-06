@@ -3,14 +3,8 @@
 # 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-lima-developer/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassarmento.oficial/) 
 
-# 💻 Tecnologias:
-
-<!-- VISITAS AO PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-lima-dev&label=Contagem%20de Visualizações&color=0e75b6&style=flat" alt="lucas-lima-dev" /> </p>
-
----
 <!-- LINGUAGENS E FERRAMENTAS -->
-<h3 align="left">Tecnologias e Ferramentas:</h3>
+# 💻 Tecnologias e Ferramentas:
 
   <table>
     <tbody>
@@ -105,16 +99,22 @@
   </table>
 
 <!-- STATUS E LINGUAGENS MAIS USADAS -->
+# 📊 Status GitHub:
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-dev&theme=gotham&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lima-dev&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
 <!-- TROFEIS GITHUB -->
+# 🏆 Conquistas:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas-lima-dev&theme=dracula&column=7" alt="lucas-lima-dev" /></a> </p>
 
-#### Keywords:
-Typescript, Javascript, NodeJS, React, NextJS, HTML, CSS, Tailwind, PostgreSQL, Docker, MongoDB, Python, Flask, Bash, Git, GitHub, Linux, WakaTime, VSCode
+---
+
+<!-- VISITAS AO PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-lima-dev&label=Contagem%20de Visualizações&color=0e75b6&style=flat" alt="lucas-lima-dev" /> </p>
+
+
 <!--
 **lucas-lima-dev/lucas-lima-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
