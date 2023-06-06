@@ -1,5 +1,5 @@
 # 🚀 Sobre Mim:
-Sou apaixonado por tecnologia, natureza e adoro passar o tempo com minha esposa e meu filho. Sou Desenvolvedor Full-Stack 👨‍💻 com formação na Driven Education 🌐 Atualmente estou desenvolvendo um projeto autoral de um software que logo mais ajudará muitos pais a se divertirem no mundo real com seus filhos!
+Sou apaixonado por tecnologia, natureza e adoro passar o tempo com minha esposa e meu filho. Sou Desenvolvedor Full-Stack 👨‍💻 com formação na Driven Education 🌐 Atualmente estou desenvolvendo um projeto autoral de um software que logo mais ajudará muitos pais a se divertirem no mundo real com seus filhos 👨‍👩‍👧‍👦!
 
 # 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-developer/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassarmento.oficial/) 
