@@ -222,35 +222,7 @@ I am passionate about technology, nature, and I love spending time with my wife 
         />
         <img width="12" /> Jest
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-          height="40"
-          alt="amazonwebservices logo"
-        />
-        <img width="12" /> AWS
-      </td>
     </tr>
-    <tr>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=github"
-          height="40"
-          alt="github logo"
-        />
-        <img width="12" /> GitHub
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-          height="40"
-          alt="postgresql logo"
-        />
-        <img width="12" /> Postgresql
-      </td>
-     
-    </tr>
-   
   </tbody>
 </table>
 
