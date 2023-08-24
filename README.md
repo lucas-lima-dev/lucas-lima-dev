@@ -231,7 +231,26 @@ I am passionate about technology, nature, and I love spending time with my wife 
         />
         <img width="12" /> Java
       </td>
-      
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+          alt="spring"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Spring Boot
+      </td>
+       <td>
+        <img
+          src="https://angular.io/assets/images/logos/angular/angular.svg"
+          alt="angular"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Angular
+      </td>
     </tr>
   </tbody>
 </table>
