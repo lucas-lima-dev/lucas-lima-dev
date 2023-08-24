@@ -3,7 +3,7 @@ I am passionate about technology, nature, and I love spending time with my wife 
 
 - 🔭 I’m currently working on [👨‍👩‍👧‍👦 Fun For Family Appication]
 
-- 🌱 I’m currently learning **Nest.Js**
+- 🌱 I’m currently learning **Java + SpringBoot + Angular**
 
 - 📫 How to reach me **lucas.sdslima@gmail.com**
 
@@ -221,6 +221,33 @@ I am passionate about technology, nature, and I love spending time with my wife 
           alt="jest logo"
         />
         <img width="12" /> Jest
+      </td>
+       <td>
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          alt="java"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Java
+      </td>
+      <td>
+        <img
+          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+          alt="spring"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Spring Boot
+      </td>
+       <td>
+        <img
+          src="https://angular.io/assets/images/logos/angular/angular.svg"
+          alt="angular"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Angular
       </td>
     </tr>
   </tbody>
