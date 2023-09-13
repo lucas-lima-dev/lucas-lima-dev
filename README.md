@@ -1,7 +1,7 @@
 # 🚀 Sobre Mim:
 I am passionate about technology, nature, and I love spending time with my wife and son. I am a Full-Stack Developer 👨‍💻 with a degree from Driven Education 🌐 
 
-- 🔭 I’m currently working on [👨‍👩‍👧‍👦 Fun For Family Appication]
+- 🔭 I’m currently working on [FullStack Apllications using Angular+SpringBoot(Java)]
 
 - 🌱 I’m currently learning **Java + SpringBoot + Angular**
 
