@@ -1,4 +1,4 @@
-# 🚀 Sobre Mim:
+# 🚀 About Me:
 I am passionate about technology, nature, and I love spending time with my wife and son. I am a Full-Stack Developer 👨‍💻 with a degree from Driven Education 🌐 
 
 - 🔭 I’m currently working on [FullStack Apllications using Angular+SpringBoot(Java)]
@@ -9,11 +9,11 @@ I am passionate about technology, nature, and I love spending time with my wife 
 
 - ⚡ Fun fact:  **I used to be a surfer (One day I will return ahaha)**
 
-# 🌐 Redes Sociais:
+# 🌐 Social Networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-developer/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassarmento.oficial/) 
 
 <!-- LINGUAGENS E FERRAMENTAS -->
-# 💻 Tecnologias e Ferramentas:
+# 💻 Technologies and Tools:
 
 <table>
   <tbody>
@@ -263,13 +263,13 @@ I am passionate about technology, nature, and I love spending time with my wife 
 </div>
 
 <!-- TROFEIS GITHUB -->
-# 🏆 Conquistas:
+# 🏆 Achievements:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas-lima-dev&theme=dracula&column=7" alt="lucas-lima-dev" /></a> </p>
 
 ---
 
 <!-- VISITAS AO PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-lima-dev&label=Contagem%20de Visualizações&color=0e75b6&style=flat" alt="lucas-lima-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-lima-dev&label=Profile%20View Count&color=0e75b6&style=flat" alt="lucas-lima-dev" /> </p>
 
 
 <!--
