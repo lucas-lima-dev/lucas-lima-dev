@@ -257,9 +257,9 @@ I am passionate about technology, nature, and I love spending time with my wife 
 
 <!-- STATUS E LINGUAGENS MAIS USADAS -->
 # 📊 Status GitHub:
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-dev&theme=gotham&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lima-dev&layout=compact&theme=gotham&langs_count=8"/>
+
+<div align="center" >
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-dev&show_icons=true&hide_title=tru&line_height=20&theme=transparent" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lima-dev&layout=compact&theme=transparent" />
 </div>
 
 <!-- TROFEIS GITHUB -->
