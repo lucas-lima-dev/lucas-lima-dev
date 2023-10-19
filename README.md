@@ -1,9 +1,9 @@
 # 🚀 About Me:
 I am passionate about technology, nature, and I love spending time with my wife and son. I am a Full-Stack Developer 👨‍💻 with a degree from Driven Education 🌐 
 
-- 🔭 I’m currently working on [FullStack Apllications using Angular+SpringBoot(Java)]
+- 🔭 I’m currently working on [FullStack Apllications using Next.js]
 
-- 🌱 I’m currently learning **Java + SpringBoot + Angular**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **lucas.sdslima@gmail.com**
 
@@ -251,6 +251,10 @@ I am passionate about technology, nature, and I love spending time with my wife 
         />
         <img width="12" /> Angular
       </td>
+       <td>          
+          <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+          <img width="12" /> Next.js
+        </td>
     </tr>
   </tbody>
 </table>
