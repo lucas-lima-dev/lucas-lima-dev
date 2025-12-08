@@ -1,9 +1,9 @@
 # 🚀 About Me:
 I am passionate about technology, nature, and I love spending time with my wife and son. I am a Full-Stack Developer 👨‍💻 with a degree from Driven Education 🌐 
 
-- 🔭 I’m currently working on [FullStack Apllications using Next.js]
+- 🔭 I’m currently working at IBM Brazil [FullStack Apllications using React+TS+Python]
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **MCP Servers**
 
 - 📫 How to reach me **lucas.sdslima@gmail.com**
 
