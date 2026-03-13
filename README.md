@@ -1,292 +1,155 @@
-# 🚀 About Me:
-I am passionate about technology, nature, and I love spending time with my wife and son. I am a Full-Stack Developer 👨‍💻 with a degree from Driven Education 🌐 
+<div align="center">
 
-- 🔭 I’m currently working at IBM Brazil [FullStack Apllications using React+TS+Python]
+# Lucas Lima
 
-- 🌱 I’m currently learning **MCP Servers**
+### Full-Stack Engineer · Python · React · TypeScript · Node.js 
 
-- 📫 How to reach me **lucas.sdslima@gmail.com**
 
-- ⚡ Fun fact:  **I used to be a surfer (One day I will return ahaha)**
 
-# 🌐 Social Networks:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-developer/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassarmento.oficial/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-developer/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.sdslima@gmail.com)
 
-<!-- LINGUAGENS E FERRAMENTAS -->
-# 💻 Technologies and Tools:
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 2+ years building full-stack enterprise apps at **IBM Brazil** · React · TypeScript · Python
+- 🌱 Currently studying Applied Artificial Intelligence Engineering and AI-driven development workflows
+- ⚡ Former surfer — same focus, different waves
+
+---
+
+## 💻 Tech Stack
 
 <table>
   <tbody>
     <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-          height="40"
-          alt="javascript logo"
-        />
-        <img width="12" /> Javascript
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+        <br/>JavaScript
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-          height="40"
-          alt="typescript logo"
-        />
-        <img width="12" /> Typescript
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+        <br/>TypeScript
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-          height="40"
-          alt="nodejs logo"
-        />
-        <img width="12" /> Node.js
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+        <br/>Node.js
       </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          height="40"
-          alt="express logo"
-        />
-        <img width="12" /> Express
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
+        <br/>Express
       </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-          alt="nestjs"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> NestJS
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs" />
+        <br/>NestJS
       </td>
     </tr>
     <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-          height="40"
-          alt="react logo"
-        />
-        <img width="12" /> React
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+        <br/>React
       </td>
-       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-          height="40"
-          alt="html5 logo"
-        />
-        <img width="12" /> HTML
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
+        <br/>Angular
       </td>
-       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-          height="40"
-          alt="css3 logo"
-        />
-        <img width="12" /> CSS
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" />
+        <br/>Tailwind
       </td>
-       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-          height="40"
-          alt="webpack logo"
-        />
-        <img width="12" /> Webpack
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+        <br/>HTML
       </td>
-      <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-          alt="babel"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Babel
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
+        <br/>Azure
       </td>
     </tr>
     <tr>
-       <td>
-        <img
-          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-          height="40"
-          alt="tailwindcss logo"
-        />
-        <img width="12" /> Tailwindcss
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+        <br/>Python
       </td>
-      <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Figma
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+        <br/>Java
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-          height="40"
-          alt="git logo"
-        />
-        <img width="12" /> Git
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" alt="spring" />
+        <br/>Spring Boot
       </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=linux"
-          height="40"
-          alt="linux logo"
-        />
-        <img width="12" /> Linux
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+        <br/>PostgreSQL
       </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/gnubash/4EAA25"
-          height="40"
-          alt="bash logo"
-        />
-        <img width="12" /> Bash
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+        <br/>MongoDB
       </td>
     </tr>
     <tr>
-       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          height="40"
-          alt="docker logo"
-        />
-        <img width="12" /> Docker
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+        <br/>Redis
       </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-          alt="nginx"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Nginx
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+        <br/>Docker
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-          height="40"
-          alt="amazonwebservices logo"
-        />
-        <img width="12" /> AWS
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
+        <br/>AWS
       </td>
-     <td>
-        <img
-          src="https://skillicons.dev/icons?i=github"
-          height="40"
-          alt="github logo"
-        />
-        <img width="12" /> GitHub
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+        <br/>Git
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-          height="40"
-          alt="postgresql logo"
-        />
-        <img width="12" /> Postgresql
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+        <br/>VS Code
       </td>
     </tr>
     <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-          height="40"
-          alt="redis logo"
-        />
-        <img width="12" /> Redis
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/claude/CC785C" height="40" alt="claude" />
+        <br/>Claude
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-          height="40"
-          alt="mongodb logo"
-        />
-        <img width="12" /> MongoDB
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/githubcopilot/6E40C9" height="40" alt="github copilot" />
+        <br/>GitHub Copilot
       </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
-          height="40"
-          alt="vscode logo"
-        />
-        <img width="12" /> Visual Studio Code
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="red hat" />
+        <br/>Red Hat
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-          height="40"
-          alt="jest logo"
-        />
-        <img width="12" /> Jest
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="langchain" />
+        <br/>LangChain
       </td>
-       <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="java"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Java
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="openai" />
+        <br/>OpenAI
       </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-          alt="spring"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Spring Boot
-      </td>
-       <td>
-        <img
-          src="https://angular.io/assets/images/logos/angular/angular.svg"
-          alt="angular"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Angular
-      </td>
-       <td>          
-          <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-          <img width="12" /> Next.js
-        </td>
     </tr>
   </tbody>
 </table>
 
-<!-- STATUS E LINGUAGENS MAIS USADAS -->
-# 📊 Status GitHub:
+---
 
-<div align="center" >
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-dev&show_icons=true&hide_title=tru&line_height=20&theme=transparent" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lima-dev&layout=compact&theme=transparent" />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucas-lima-dev&show_icons=true&hide_title=true&line_height=20&theme=transparent" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lima-dev&layout=compact&theme=transparent" />
 </div>
 
-<!-- TROFEIS GITHUB -->
-# 🏆 Achievements:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas-lima-dev&theme=dracula&column=7" alt="lucas-lima-dev" /></a> </p>
 
 ---
 
-<!-- VISITAS AO PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-lima-dev&label=Profile%20View Count&color=0e75b6&style=flat" alt="lucas-lima-dev" /> </p>
-
-
-<!--
-**lucas-lima-dev/lucas-lima-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lucas-lima-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
