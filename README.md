@@ -131,7 +131,7 @@
         <br/>LangChain
       </td>
       <td align="center">
-        <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="openai" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/openai.svg" height="40" alt="openai" />
         <br/>OpenAI
       </td>
     </tr>
